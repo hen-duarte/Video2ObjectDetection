@@ -24,6 +24,16 @@ There are 2 configuration needed to be made before running the code:
 * Video Stream HTTP Connection 
 * Siddhi Stream HTTP Connection
 
+```
+# --------------------- CONFIGURATION ---------------------------------
+
+VIDEO_STREAM_HTTP_CONNECTION = "http://localhost:8080/"
+
+SIDDHI_STREAM_HTTP_CONNECTION = "http://localhost:8280/siddhi"
+
+# ---------------------------------------------------------------------
+```
+
 ## Domain 
 This solution describes a process in real-world environment by acquiring data from environments where wouldn't be possible. 
 The domain of this solution could be given by:
