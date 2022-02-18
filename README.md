@@ -27,5 +27,5 @@ There are 2 configuration needed to be made before running the code:
 ## Domain 
 This solution describes a process in real-world environment by acquiring data from environments where wouldn't be possible. 
 The domain of this solution could be given by:
-(image_solution)
+![solution_domain](https://user-images.githubusercontent.com/99749820/154712825-cf3bb91c-bd7a-491b-a35e-cd41ce65f19e.png)
 
