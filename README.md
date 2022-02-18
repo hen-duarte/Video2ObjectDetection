@@ -29,3 +29,6 @@ This solution describes a process in real-world environment by acquiring data fr
 The domain of this solution could be given by:
 ![solution_domain](https://user-images.githubusercontent.com/99749820/154712825-cf3bb91c-bd7a-491b-a35e-cd41ce65f19e.png)
 
+
+# Prototype Running Printscreen
+![printscreen-prototype](https://user-images.githubusercontent.com/99749820/154713987-1f305130-7f4b-464a-ae03-94e9959433f6.png)
