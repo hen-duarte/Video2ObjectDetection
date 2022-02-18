@@ -41,5 +41,5 @@ The domain of this solution could be given by:
 ![solution_domain](https://user-images.githubusercontent.com/99749820/154712825-cf3bb91c-bd7a-491b-a35e-cd41ce65f19e.png)
 
 
-# Prototype Running Printscreen
+# Prototype running printscreen
 ![printscreen-prototype_2](https://user-images.githubusercontent.com/99749820/154716291-4f5324e7-bf2b-492b-ab51-ef3fd69800c3.png)
