@@ -37,12 +37,13 @@ SIDDHI_STREAM_HTTP_CONNECTION = "http://localhost:8280/siddhi"
 
 ## Video Configuration (VLC Stream)
 To create an HTTP Connection using the VLC Stream you should follow the next steps:
-1. Create a new stream connection (CTRL+S)
-2. Add the turnaround video
-3. Select the **HTTP** as new destination
-4. Add the port number: 8080 
-5. Select an transcoding profile (usually we use a *"Video - MPEG-2 + MPGA (TS)"*)
-6. Guarantee that the video codec has a Bitrate up to 20000 kb/s
+1. Open VLC Media Player
+2. Create a new stream connection (CTRL+S)
+3. Add the turnaround video
+4. Select the **HTTP** as new destination
+5. Add the port number: 8080 
+6. Select an transcoding profile (usually we use a *"Video - MPEG-2 + MPGA (TS)"*)
+7. Guarantee that the video codec has a Bitrate up to 20000 kb/s
 
 ## Domain 
 This solution describes a process in real-world environment by acquiring data from environments where wouldn't be possible. 
