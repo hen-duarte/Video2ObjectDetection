@@ -31,4 +31,4 @@ The domain of this solution could be given by:
 
 
 # Prototype Running Printscreen
-![printscreen-prototype](https://user-images.githubusercontent.com/99749820/154713987-1f305130-7f4b-464a-ae03-94e9959433f6.png)
+![printscreen-prototype_2](https://user-images.githubusercontent.com/99749820/154716291-4f5324e7-bf2b-492b-ab51-ef3fd69800c3.png)
