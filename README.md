@@ -24,6 +24,7 @@ There are 2 configuration needed to be made before running the code:
 * Video Stream HTTP Connection 
 * Siddhi Stream HTTP Connection
 
+The changes needs to be done inside file "Video2ObjectDetection - prototype v0.1.py"
 ```
 # --------------------- CONFIGURATION ---------------------------------
 
